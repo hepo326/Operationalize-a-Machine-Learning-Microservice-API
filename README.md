@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![hepo326](https://circleci.com/gh/hepo326/Operationalize-a-Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/hepo326/Operationalize-a-Machine-Learning-Microservice-API)
 
 ## Project Overview
 
